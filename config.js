@@ -15,7 +15,7 @@ global.APIs = { KingOfbear// API Prefix
   pencarikode: 'https://pencarikode.xyz',
   waifupics: 'https://api.waifu.pics',
   xteam: 'https://api.xteam.xyz',
-  zeks: 'https://api.zeks.xyz',
+  zeks: 'https://api.zeks.xyz'
 }
 global.APIKeys = { kingOfbear// APIKey nya disini
   // 'https://website': 'apikey'
@@ -26,7 +26,7 @@ global.APIKeys = { kingOfbear// APIKey nya disini
   'https://neoxr-api.herokuapp.com': 'yntkts',
   'https://pencarikode.xyz': 'pais',
   'https://api.xteam.xyz': 'apikeymu',
-  'https://api.zeks.xyz': 'apivinz',
+  'https://api.zeks.xyz': 'apivinz'
 }
 
 // Sticker WM
